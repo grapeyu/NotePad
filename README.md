@@ -635,7 +635,7 @@ editor_options_menu.xml添加一个item用于选择更换背景
         return true;  
 ```  
 运行效果截图：  
-![img](https://github.com/grapeyu/NotePad/blob/master/img/6.jpg)  
+![img](https://github.com/grapeyu/NotePad/blob/master/img/6.jpg)    
 ![img](https://github.com/grapeyu/NotePad/blob/master/img/7.jpg)  
 ![img](https://github.com/grapeyu/NotePad/blob/master/img/8.jpg)  
 ![img](https://github.com/grapeyu/NotePad/blob/master/img/9.jpg)  
