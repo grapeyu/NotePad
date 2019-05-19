@@ -1,23 +1,23 @@
 [
     {
-        "outputFile": "E:\\gitrepos\\NotePad\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "outputFile": "E:\\Android_wprdspaces\\Note\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
         "map": [
             {
                 "to": {
                     "startLine": 2,
                     "startColumn": 4,
                     "startOffset": 55,
-                    "endColumn": 44,
-                    "endOffset": 95
+                    "endColumn": 38,
+                    "endOffset": 89
                 },
                 "from": {
-                    "file": "E:\\gitrepos\\NotePad\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\Android_wprdspaces\\Note\\app\\src\\main\\res\\values\\colors.xml",
                     "position": {
-                        "startLine": 17,
+                        "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 691,
-                        "endColumn": 44,
-                        "endOffset": 731
+                        "startOffset": 189,
+                        "endColumn": 38,
+                        "endOffset": 223
                     }
                 }
             },
@@ -25,18 +25,18 @@
                 "to": {
                     "startLine": 3,
                     "startColumn": 4,
-                    "startOffset": 100,
-                    "endColumn": 40,
-                    "endOffset": 136
+                    "startOffset": 94,
+                    "endColumn": 42,
+                    "endOffset": 132
                 },
                 "from": {
-                    "file": "E:\\gitrepos\\NotePad\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\Android_wprdspaces\\Note\\app\\src\\main\\res\\values\\colors.xml",
                     "position": {
-                        "startLine": 33,
+                        "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 1320,
-                        "endColumn": 40,
-                        "endOffset": 1356
+                        "startOffset": 229,
+                        "endColumn": 42,
+                        "endOffset": 267
                     }
                 }
             },
@@ -44,18 +44,18 @@
                 "to": {
                     "startLine": 4,
                     "startColumn": 4,
-                    "startOffset": 141,
-                    "endColumn": 60,
-                    "endOffset": 197
+                    "startOffset": 137,
+                    "endColumn": 43,
+                    "endOffset": 176
                 },
                 "from": {
-                    "file": "E:\\gitrepos\\NotePad\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\Android_wprdspaces\\Note\\app\\src\\main\\res\\values\\colors.xml",
                     "position": {
-                        "startLine": 40,
+                        "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 1559,
-                        "endColumn": 60,
-                        "endOffset": 1615
+                        "startOffset": 273,
+                        "endColumn": 43,
+                        "endOffset": 312
                     }
                 }
             },
@@ -63,18 +63,18 @@
                 "to": {
                     "startLine": 5,
                     "startColumn": 4,
-                    "startOffset": 202,
-                    "endColumn": 45,
-                    "endOffset": 243
+                    "startOffset": 181,
+                    "endColumn": 38,
+                    "endOffset": 215
                 },
                 "from": {
-                    "file": "E:\\gitrepos\\NotePad\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\Android_wprdspaces\\Note\\app\\src\\main\\res\\values\\colors.xml",
                     "position": {
-                        "startLine": 39,
+                        "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 1513,
-                        "endColumn": 45,
-                        "endOffset": 1554
+                        "startOffset": 439,
+                        "endColumn": 38,
+                        "endOffset": 473
                     }
                 }
             },
@@ -82,18 +82,18 @@
                 "to": {
                     "startLine": 6,
                     "startColumn": 4,
-                    "startOffset": 248,
-                    "endColumn": 50,
-                    "endOffset": 294
+                    "startOffset": 220,
+                    "endColumn": 39,
+                    "endOffset": 255
                 },
                 "from": {
-                    "file": "E:\\gitrepos\\NotePad\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\Android_wprdspaces\\Note\\app\\src\\main\\res\\values\\colors.xml",
                     "position": {
-                        "startLine": 18,
+                        "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 736,
-                        "endColumn": 50,
-                        "endOffset": 782
+                        "startOffset": 357,
+                        "endColumn": 39,
+                        "endOffset": 392
                     }
                 }
             },
@@ -101,18 +101,18 @@
                 "to": {
                     "startLine": 7,
                     "startColumn": 4,
-                    "startOffset": 299,
-                    "endColumn": 45,
-                    "endOffset": 340
+                    "startOffset": 260,
+                    "endColumn": 43,
+                    "endOffset": 299
                 },
                 "from": {
-                    "file": "E:\\gitrepos\\NotePad\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\Android_wprdspaces\\Note\\app\\src\\main\\res\\values\\colors.xml",
                     "position": {
-                        "startLine": 25,
+                        "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 997,
-                        "endColumn": 45,
-                        "endOffset": 1038
+                        "startOffset": 100,
+                        "endColumn": 44,
+                        "endOffset": 140
                     }
                 }
             },
@@ -120,18 +120,18 @@
                 "to": {
                     "startLine": 8,
                     "startColumn": 4,
-                    "startOffset": 345,
-                    "endColumn": 42,
-                    "endOffset": 383
+                    "startOffset": 304,
+                    "endColumn": 40,
+                    "endOffset": 340
                 },
                 "from": {
-                    "file": "E:\\gitrepos\\NotePad\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\Android_wprdspaces\\Note\\app\\src\\main\\res\\values\\colors.xml",
                     "position": {
-                        "startLine": 30,
+                        "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 1231,
-                        "endColumn": 42,
-                        "endOffset": 1269
+                        "startOffset": 146,
+                        "endColumn": 41,
+                        "endOffset": 183
                     }
                 }
             },
@@ -139,18 +139,18 @@
                 "to": {
                     "startLine": 9,
                     "startColumn": 4,
-                    "startOffset": 388,
-                    "endColumn": 46,
-                    "endOffset": 430
+                    "startOffset": 345,
+                    "endColumn": 37,
+                    "endOffset": 378
                 },
                 "from": {
-                    "file": "E:\\gitrepos\\NotePad\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\Android_wprdspaces\\Note\\app\\src\\main\\res\\values\\colors.xml",
                     "position": {
-                        "startLine": 27,
+                        "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 1086,
-                        "endColumn": 46,
-                        "endOffset": 1128
+                        "startOffset": 318,
+                        "endColumn": 37,
+                        "endOffset": 351
                     }
                 }
             },
@@ -158,18 +158,18 @@
                 "to": {
                     "startLine": 10,
                     "startColumn": 4,
-                    "startOffset": 435,
-                    "endColumn": 42,
-                    "endOffset": 473
+                    "startOffset": 383,
+                    "endColumn": 39,
+                    "endOffset": 418
                 },
                 "from": {
-                    "file": "E:\\gitrepos\\NotePad\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\Android_wprdspaces\\Note\\app\\src\\main\\res\\values\\colors.xml",
                     "position": {
-                        "startLine": 28,
+                        "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 1133,
-                        "endColumn": 42,
-                        "endOffset": 1171
+                        "startOffset": 398,
+                        "endColumn": 39,
+                        "endOffset": 433
                     }
                 }
             },
@@ -177,18 +177,18 @@
                 "to": {
                     "startLine": 11,
                     "startColumn": 4,
-                    "startOffset": 478,
-                    "endColumn": 44,
-                    "endOffset": 518
+                    "startOffset": 423,
+                    "endColumn": 40,
+                    "endOffset": 459
                 },
                 "from": {
-                    "file": "E:\\gitrepos\\NotePad\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\Android_wprdspaces\\Note\\app\\src\\main\\res\\values\\colors.xml",
                     "position": {
-                        "startLine": 31,
+                        "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 1274,
-                        "endColumn": 44,
-                        "endOffset": 1314
+                        "startOffset": 57,
+                        "endColumn": 41,
+                        "endOffset": 94
                     }
                 }
             },
@@ -196,18 +196,18 @@
                 "to": {
                     "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 523,
-                    "endColumn": 54,
-                    "endOffset": 573
+                    "startOffset": 464,
+                    "endColumn": 44,
+                    "endOffset": 504
                 },
                 "from": {
-                    "file": "E:\\gitrepos\\NotePad\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\Android_wprdspaces\\Note\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
-                        "startLine": 29,
+                        "startLine": 17,
                         "startColumn": 4,
-                        "startOffset": 1176,
-                        "endColumn": 54,
-                        "endOffset": 1226
+                        "startOffset": 708,
+                        "endColumn": 44,
+                        "endOffset": 748
                     }
                 }
             },
@@ -215,18 +215,18 @@
                 "to": {
                     "startLine": 13,
                     "startColumn": 4,
-                    "startOffset": 578,
-                    "endColumn": 42,
-                    "endOffset": 616
+                    "startOffset": 509,
+                    "endColumn": 45,
+                    "endOffset": 550
                 },
                 "from": {
-                    "file": "E:\\gitrepos\\NotePad\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\Android_wprdspaces\\Note\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
-                        "startLine": 26,
+                        "startLine": 57,
                         "startColumn": 4,
-                        "startOffset": 1043,
-                        "endColumn": 42,
-                        "endOffset": 1081
+                        "startOffset": 2441,
+                        "endColumn": 45,
+                        "endOffset": 2482
                     }
                 }
             },
@@ -234,18 +234,18 @@
                 "to": {
                     "startLine": 14,
                     "startColumn": 4,
-                    "startOffset": 621,
-                    "endColumn": 68,
-                    "endOffset": 685
+                    "startOffset": 555,
+                    "endColumn": 40,
+                    "endOffset": 591
                 },
                 "from": {
-                    "file": "E:\\gitrepos\\NotePad\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\Android_wprdspaces\\Note\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
-                        "startLine": 41,
+                        "startLine": 33,
                         "startColumn": 4,
-                        "startOffset": 1620,
-                        "endColumn": 68,
-                        "endOffset": 1684
+                        "startOffset": 1353,
+                        "endColumn": 40,
+                        "endOffset": 1389
                     }
                 }
             },
@@ -253,18 +253,18 @@
                 "to": {
                     "startLine": 15,
                     "startColumn": 4,
-                    "startOffset": 690,
-                    "endColumn": 50,
-                    "endOffset": 736
+                    "startOffset": 596,
+                    "endColumn": 60,
+                    "endOffset": 652
                 },
                 "from": {
-                    "file": "E:\\gitrepos\\NotePad\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\Android_wprdspaces\\Note\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
-                        "startLine": 36,
+                        "startLine": 40,
                         "startColumn": 4,
-                        "startOffset": 1408,
-                        "endColumn": 50,
-                        "endOffset": 1454
+                        "startOffset": 1599,
+                        "endColumn": 60,
+                        "endOffset": 1655
                     }
                 }
             },
@@ -272,18 +272,18 @@
                 "to": {
                     "startLine": 16,
                     "startColumn": 4,
-                    "startOffset": 741,
-                    "endColumn": 52,
-                    "endOffset": 789
+                    "startOffset": 657,
+                    "endColumn": 45,
+                    "endOffset": 698
                 },
                 "from": {
-                    "file": "E:\\gitrepos\\NotePad\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\Android_wprdspaces\\Note\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
-                        "startLine": 37,
+                        "startLine": 39,
                         "startColumn": 4,
-                        "startOffset": 1459,
-                        "endColumn": 52,
-                        "endOffset": 1507
+                        "startOffset": 1552,
+                        "endColumn": 45,
+                        "endOffset": 1593
                     }
                 }
             },
@@ -291,18 +291,18 @@
                 "to": {
                     "startLine": 17,
                     "startColumn": 4,
-                    "startOffset": 794,
-                    "endColumn": 45,
-                    "endOffset": 835
+                    "startOffset": 703,
+                    "endColumn": 37,
+                    "endOffset": 736
                 },
                 "from": {
-                    "file": "E:\\gitrepos\\NotePad\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\Android_wprdspaces\\Note\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
-                        "startLine": 34,
+                        "startLine": 52,
                         "startColumn": 4,
-                        "startOffset": 1361,
-                        "endColumn": 45,
-                        "endOffset": 1402
+                        "startOffset": 2230,
+                        "endColumn": 37,
+                        "endOffset": 2263
                     }
                 }
             },
@@ -310,18 +310,18 @@
                 "to": {
                     "startLine": 18,
                     "startColumn": 4,
-                    "startOffset": 840,
-                    "endColumn": 49,
-                    "endOffset": 885
+                    "startOffset": 741,
+                    "endColumn": 37,
+                    "endOffset": 774
                 },
                 "from": {
-                    "file": "E:\\gitrepos\\NotePad\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\Android_wprdspaces\\Note\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
-                        "startLine": 21,
+                        "startLine": 53,
                         "startColumn": 4,
-                        "startOffset": 845,
-                        "endColumn": 49,
-                        "endOffset": 890
+                        "startOffset": 2269,
+                        "endColumn": 37,
+                        "endOffset": 2302
                     }
                 }
             },
@@ -329,18 +329,18 @@
                 "to": {
                     "startLine": 19,
                     "startColumn": 4,
-                    "startOffset": 890,
-                    "endColumn": 49,
-                    "endOffset": 935
+                    "startOffset": 779,
+                    "endColumn": 37,
+                    "endOffset": 812
                 },
                 "from": {
-                    "file": "E:\\gitrepos\\NotePad\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\Android_wprdspaces\\Note\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
-                        "startLine": 22,
+                        "startLine": 54,
                         "startColumn": 4,
-                        "startOffset": 895,
-                        "endColumn": 49,
-                        "endOffset": 940
+                        "startOffset": 2308,
+                        "endColumn": 37,
+                        "endOffset": 2341
                     }
                 }
             },
@@ -348,18 +348,18 @@
                 "to": {
                     "startLine": 20,
                     "startColumn": 4,
-                    "startOffset": 940,
-                    "endColumn": 56,
-                    "endOffset": 992
+                    "startOffset": 817,
+                    "endColumn": 49,
+                    "endOffset": 862
                 },
                 "from": {
-                    "file": "E:\\gitrepos\\NotePad\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\Android_wprdspaces\\Note\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
-                        "startLine": 20,
+                        "startLine": 55,
                         "startColumn": 4,
-                        "startOffset": 788,
-                        "endColumn": 56,
-                        "endOffset": 840
+                        "startOffset": 2347,
+                        "endColumn": 49,
+                        "endOffset": 2392
                     }
                 }
             },
@@ -367,19 +367,849 @@
                 "to": {
                     "startLine": 21,
                     "startColumn": 4,
-                    "startOffset": 997,
-                    "endColumn": 50,
-                    "endOffset": 1043
+                    "startOffset": 867,
+                    "endColumn": 47,
+                    "endOffset": 910
                 },
                 "from": {
-                    "file": "E:\\gitrepos\\NotePad\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "E:\\Android_wprdspaces\\Note\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 2181,
+                        "endColumn": 47,
+                        "endOffset": 2224
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 915,
+                    "endColumn": 50,
+                    "endOffset": 961
+                },
+                "from": {
+                    "file": "E:\\Android_wprdspaces\\Note\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 754,
+                        "endColumn": 50,
+                        "endOffset": 800
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 966,
+                    "endColumn": 45,
+                    "endOffset": 1007
+                },
+                "from": {
+                    "file": "E:\\Android_wprdspaces\\Note\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1022,
+                        "endColumn": 45,
+                        "endOffset": 1063
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1012,
+                    "endColumn": 49,
+                    "endOffset": 1057
+                },
+                "from": {
+                    "file": "E:\\Android_wprdspaces\\Note\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 2084,
+                        "endColumn": 49,
+                        "endOffset": 2129
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1062,
+                    "endColumn": 42,
+                    "endOffset": 1100
+                },
+                "from": {
+                    "file": "E:\\Android_wprdspaces\\Note\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1261,
+                        "endColumn": 42,
+                        "endOffset": 1299
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1105,
+                    "endColumn": 46,
+                    "endOffset": 1147
+                },
+                "from": {
+                    "file": "E:\\Android_wprdspaces\\Note\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1113,
+                        "endColumn": 46,
+                        "endOffset": 1155
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1152,
+                    "endColumn": 42,
+                    "endOffset": 1190
+                },
+                "from": {
+                    "file": "E:\\Android_wprdspaces\\Note\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1161,
+                        "endColumn": 42,
+                        "endOffset": 1199
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1195,
+                    "endColumn": 46,
+                    "endOffset": 1237
+                },
+                "from": {
+                    "file": "E:\\Android_wprdspaces\\Note\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 1784,
+                        "endColumn": 46,
+                        "endOffset": 1826
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1242,
+                    "endColumn": 44,
+                    "endOffset": 1282
+                },
+                "from": {
+                    "file": "E:\\Android_wprdspaces\\Note\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1305,
+                        "endColumn": 44,
+                        "endOffset": 1345
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1287,
+                    "endColumn": 54,
+                    "endOffset": 1337
+                },
+                "from": {
+                    "file": "E:\\Android_wprdspaces\\Note\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1205,
+                        "endColumn": 54,
+                        "endOffset": 1255
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1342,
+                    "endColumn": 42,
+                    "endOffset": 1380
+                },
+                "from": {
+                    "file": "E:\\Android_wprdspaces\\Note\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1069,
+                        "endColumn": 42,
+                        "endOffset": 1107
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1385,
+                    "endColumn": 50,
+                    "endOffset": 1431
+                },
+                "from": {
+                    "file": "E:\\Android_wprdspaces\\Note\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 1731,
+                        "endColumn": 51,
+                        "endOffset": 1778
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 1436,
+                    "endColumn": 42,
+                    "endOffset": 1474
+                },
+                "from": {
+                    "file": "E:\\Android_wprdspaces\\Note\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 1934,
+                        "endColumn": 42,
+                        "endOffset": 1972
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1479,
+                    "endColumn": 50,
+                    "endOffset": 1525
+                },
+                "from": {
+                    "file": "E:\\Android_wprdspaces\\Note\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 1978,
+                        "endColumn": 50,
+                        "endOffset": 2024
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 1530,
+                    "endColumn": 52,
+                    "endOffset": 1578
+                },
+                "from": {
+                    "file": "E:\\Android_wprdspaces\\Note\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 2030,
+                        "endColumn": 52,
+                        "endOffset": 2078
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 1583,
+                    "endColumn": 44,
+                    "endOffset": 1623
+                },
+                "from": {
+                    "file": "E:\\Android_wprdspaces\\Note\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 2135,
+                        "endColumn": 44,
+                        "endOffset": 2175
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 1628,
+                    "endColumn": 68,
+                    "endOffset": 1692
+                },
+                "from": {
+                    "file": "E:\\Android_wprdspaces\\Note\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 1661,
+                        "endColumn": 68,
+                        "endOffset": 1725
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 1697,
+                    "endColumn": 51,
+                    "endOffset": 1744
+                },
+                "from": {
+                    "file": "E:\\Android_wprdspaces\\Note\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 1881,
+                        "endColumn": 51,
+                        "endOffset": 1928
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 1749,
+                    "endColumn": 47,
+                    "endOffset": 1792
+                },
+                "from": {
+                    "file": "E:\\Android_wprdspaces\\Note\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 1832,
+                        "endColumn": 47,
+                        "endOffset": 1875
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 1797,
+                    "endColumn": 41,
+                    "endOffset": 1834
+                },
+                "from": {
+                    "file": "E:\\Android_wprdspaces\\Note\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 2398,
+                        "endColumn": 41,
+                        "endOffset": 2435
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 1839,
+                    "endColumn": 50,
+                    "endOffset": 1885
+                },
+                "from": {
+                    "file": "E:\\Android_wprdspaces\\Note\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1444,
+                        "endColumn": 50,
+                        "endOffset": 1490
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 1890,
+                    "endColumn": 52,
+                    "endOffset": 1938
+                },
+                "from": {
+                    "file": "E:\\Android_wprdspaces\\Note\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 1496,
+                        "endColumn": 52,
+                        "endOffset": 1544
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 1943,
+                    "endColumn": 45,
+                    "endOffset": 1984
+                },
+                "from": {
+                    "file": "E:\\Android_wprdspaces\\Note\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1395,
+                        "endColumn": 45,
+                        "endOffset": 1436
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 1989,
+                    "endColumn": 49,
+                    "endOffset": 2034
+                },
+                "from": {
+                    "file": "E:\\Android_wprdspaces\\Note\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 866,
+                        "endColumn": 49,
+                        "endOffset": 911
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 2039,
+                    "endColumn": 49,
+                    "endOffset": 2084
+                },
+                "from": {
+                    "file": "E:\\Android_wprdspaces\\Note\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 917,
+                        "endColumn": 49,
+                        "endOffset": 962
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 2089,
+                    "endColumn": 56,
+                    "endOffset": 2141
+                },
+                "from": {
+                    "file": "E:\\Android_wprdspaces\\Note\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 808,
+                        "endColumn": 56,
+                        "endOffset": 860
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 2146,
+                    "endColumn": 50,
+                    "endOffset": 2192
+                },
+                "from": {
+                    "file": "E:\\Android_wprdspaces\\Note\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
-                        "startOffset": 945,
+                        "startOffset": 968,
                         "endColumn": 50,
-                        "endOffset": 991
+                        "endOffset": 1014
                     }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "E:\\Android_wprdspaces\\NotePad\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 38,
+                    "endOffset": 89
+                },
+                "from": {
+                    "file": "E:\\Android_wprdspaces\\NotePad\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 94,
+                    "endColumn": 42,
+                    "endOffset": 132
+                },
+                "from": {
+                    "file": "E:\\Android_wprdspaces\\NotePad\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 137,
+                    "endColumn": 43,
+                    "endOffset": 176
+                },
+                "from": {
+                    "file": "E:\\Android_wprdspaces\\NotePad\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 273,
+                        "endColumn": 43,
+                        "endOffset": 312
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 181,
+                    "endColumn": 43,
+                    "endOffset": 220
+                },
+                "from": {
+                    "file": "E:\\Android_wprdspaces\\NotePad\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 225,
+                    "endColumn": 40,
+                    "endOffset": 261
+                },
+                "from": {
+                    "file": "E:\\Android_wprdspaces\\NotePad\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 266,
+                    "endColumn": 40,
+                    "endOffset": 302
+                },
+                "from": {
+                    "file": "E:\\Android_wprdspaces\\NotePad\\app\\src\\main\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 307,
+                    "endColumn": 44,
+                    "endOffset": 347
+                },
+                "from": {
+                    "file": "E:\\Android_wprdspaces\\NotePad\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 352,
+                    "endColumn": 40,
+                    "endOffset": 388
+                },
+                "from": {
+                    "file": "E:\\Android_wprdspaces\\NotePad\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 393,
+                    "endColumn": 60,
+                    "endOffset": 449
+                },
+                "from": {
+                    "file": "E:\\Android_wprdspaces\\NotePad\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 454,
+                    "endColumn": 45,
+                    "endOffset": 495
+                },
+                "from": {
+                    "file": "E:\\Android_wprdspaces\\NotePad\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 500,
+                    "endColumn": 50,
+                    "endOffset": 546
+                },
+                "from": {
+                    "file": "E:\\Android_wprdspaces\\NotePad\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 551,
+                    "endColumn": 45,
+                    "endOffset": 592
+                },
+                "from": {
+                    "file": "E:\\Android_wprdspaces\\NotePad\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 597,
+                    "endColumn": 42,
+                    "endOffset": 635
+                },
+                "from": {
+                    "file": "E:\\Android_wprdspaces\\NotePad\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 640,
+                    "endColumn": 46,
+                    "endOffset": 682
+                },
+                "from": {
+                    "file": "E:\\Android_wprdspaces\\NotePad\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 687,
+                    "endColumn": 42,
+                    "endOffset": 725
+                },
+                "from": {
+                    "file": "E:\\Android_wprdspaces\\NotePad\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 730,
+                    "endColumn": 44,
+                    "endOffset": 770
+                },
+                "from": {
+                    "file": "E:\\Android_wprdspaces\\NotePad\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 775,
+                    "endColumn": 54,
+                    "endOffset": 825
+                },
+                "from": {
+                    "file": "E:\\Android_wprdspaces\\NotePad\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 830,
+                    "endColumn": 42,
+                    "endOffset": 868
+                },
+                "from": {
+                    "file": "E:\\Android_wprdspaces\\NotePad\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 873,
+                    "endColumn": 50,
+                    "endOffset": 919
+                },
+                "from": {
+                    "file": "E:\\Android_wprdspaces\\NotePad\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 924,
+                    "endColumn": 68,
+                    "endOffset": 988
+                },
+                "from": {
+                    "file": "E:\\Android_wprdspaces\\NotePad\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 993,
+                    "endColumn": 50,
+                    "endOffset": 1039
+                },
+                "from": {
+                    "file": "E:\\Android_wprdspaces\\NotePad\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1044,
+                    "endColumn": 52,
+                    "endOffset": 1092
+                },
+                "from": {
+                    "file": "E:\\Android_wprdspaces\\NotePad\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1097,
+                    "endColumn": 45,
+                    "endOffset": 1138
+                },
+                "from": {
+                    "file": "E:\\Android_wprdspaces\\NotePad\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1143,
+                    "endColumn": 49,
+                    "endOffset": 1188
+                },
+                "from": {
+                    "file": "E:\\Android_wprdspaces\\NotePad\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1193,
+                    "endColumn": 49,
+                    "endOffset": 1238
+                },
+                "from": {
+                    "file": "E:\\Android_wprdspaces\\NotePad\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1243,
+                    "endColumn": 56,
+                    "endOffset": 1295
+                },
+                "from": {
+                    "file": "E:\\Android_wprdspaces\\NotePad\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1300,
+                    "endColumn": 50,
+                    "endOffset": 1346
+                },
+                "from": {
+                    "file": "E:\\Android_wprdspaces\\NotePad\\app\\src\\main\\res\\values\\strings.xml"
                 }
             }
         ]

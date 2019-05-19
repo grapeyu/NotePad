@@ -150,5 +150,20 @@ public final class NotePad {
          * <P>Type: INTEGER (long from System.curentTimeMillis())</P>
          */
         public static final String COLUMN_NAME_MODIFICATION_DATE = "modified";
+
+        /**
+         * Column name for the background color
+         */
+        public static final String COLUMN_NAME_BACK_COLOR = "color";
+
+        /**
+         * background color
+         */
+        public static final int DEFAULT_COLOR = 0; //白
+        public static final int YELLOW_COLOR = 1;
+        public static final int BLUE_COLOR = 2;
+        public static final int GREEN_COLOR = 3;
+        public static final int RED_COLOR = 4;
+
     }
 }

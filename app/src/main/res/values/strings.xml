@@ -40,4 +40,20 @@
     <string name="error_title">Error</string>
     <string name="error_message">Error loading note</string>
     <string name="nothing_to_save">There is nothing to save</string>
+    <string name="menu_search" >NoteSearch</string>
+    <string name="menu_output">Output</string>
+    <string name="output_ok">output_ok</string>
+    <string name="output_name">output_name</string>
+    <string name="menu_sort">sort</string>
+    <string name="menu_sort1">create_time</string>
+    <string name="menu_sort2">modified_time</string>
+    <string name="menu_color">menu_color</string>
+    <string name="menu_sort3">color</string>
+    <string name="font_size">font_size</string>
+    <string name="font10">10</string>
+    <string name="font16">16</string>
+    <string name="font20">20</string>
+    <string name="font_color">font_color</string>
+    <string name="red_title">red</string>
+    <string name="black_title">black</string>
 </resources>
